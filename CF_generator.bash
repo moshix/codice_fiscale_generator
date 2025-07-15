@@ -1,5 +1,6 @@
 #!/bin/bash
-# generator by moshix
+# codice fiscale generator, copyright 2025 by moshix
+# License: GPLv3. All rights reserved. 
 # July 2025 / Milan
 
 set -e
